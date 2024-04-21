@@ -20,7 +20,7 @@ function App() {
           <MyCard
             imageUrl={perrito1}
             name="Obito"
-            description="Un perrito muy juguetón."
+            description="Lleno de energía y listo para jugar."
           >
             <Tags text="Más info" color="primary" />
           </MyCard>
@@ -30,7 +30,7 @@ function App() {
           <MyCard
             imageUrl={perrito2}
             name="Pelusa"
-            description="Una perrita muy cariñosa."
+            description="Una perrita muy cariñosa, juguetona y amigable con los niños."
           >
             <Tags text="Más info" color="success" />
           </MyCard>
@@ -40,7 +40,7 @@ function App() {
           <MyCard
             imageUrl={perrito3}
             name="Toni"
-            description="Una perrita muy cariñosa."
+            description="Hazte su amigo y experimenta un amor incondicional."
           >
             <Tags text="Más info" color="secondary" />
           </MyCard>
@@ -50,7 +50,7 @@ function App() {
           <MyCard
             imageUrl={perrito4}
             name="Ramón"
-            description="Un perrito muy tierno"
+            description="Leal y cariñoso, adora los mimos y los abrazos."
           >
             <Tags text="Más info" color="danger" />
           </MyCard>
